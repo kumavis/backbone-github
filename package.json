@@ -1,0 +1,27 @@
+{
+  "name": "backbone-github",
+  "version": "0.0.0",
+  "description": "Backbone sync for Github",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Gregor MacLennan",
+    "email": "gmaclennan@digital-democracy.org",
+    "url": "http://www.digital-democracy.org"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "js-git": "^0.7.3",
+    "js-github": "^1.0.0",
+    "node-uuid": "^1.4.1",
+    "queue-from-async": "^1.0.0",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {
+    "browserify": "^6.3.3",
+    "uglify-js": "^2.4.15"
+  }
+}
