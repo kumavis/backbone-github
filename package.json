@@ -1,6 +1,6 @@
 {
   "name": "backbone-github",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Backbone sync for Github",
   "main": "index",
   "scripts": {
@@ -18,7 +18,7 @@
     "js-git-ref-cache": "git://github.com/digidem/js-git-ref-cache",
     "js-github": "^1.0.0",
     "node-uuid": "^1.4.1",
-    "queue-from-async": "^1.0.0",
+    "async": "^1.0.0",
     "underscore": "^1.6.0"
   },
   "devDependencies": {
