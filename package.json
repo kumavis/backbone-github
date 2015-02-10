@@ -15,6 +15,7 @@
   "dependencies": {
     "backbone": "^1.1.2",
     "js-git": "^0.7.3",
+    "js-git-ref-cache": "git://github.com/digidem/js-git-ref-cache",
     "js-github": "^1.0.0",
     "node-uuid": "^1.4.1",
     "queue-from-async": "^1.0.0",
