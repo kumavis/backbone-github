@@ -18,11 +18,11 @@
     "js-git-ref-cache": "git://github.com/digidem/js-git-ref-cache",
     "js-github": "^1.0.0",
     "node-uuid": "^1.4.1",
-    "async": "^1.0.0",
+    "async": "^2.1.2",
     "underscore": "^1.6.0"
   },
   "devDependencies": {
-    "browserify": "^6.3.3",
+    "browserify": "^13.1.1",
     "uglify-js": "^2.4.15"
   }
 }
